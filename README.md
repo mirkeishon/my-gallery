@@ -49,7 +49,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [How To Make a Box With CSS and JavaScript](https://www.w3schools.com/howto/howto_css_modals.asp)
+- [How To Make a Modal Box With CSS and JavaScript](https://www.w3schools.com/howto/howto_css_modals.asp)
 
 ## Contact
 
